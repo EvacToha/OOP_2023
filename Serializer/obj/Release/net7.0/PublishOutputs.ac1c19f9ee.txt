@@ -1,0 +1,3 @@
+D:\zalupa\oop\OOP\Serializer\bin\Release\net7.0\publish\Serializer.dll
+D:\zalupa\oop\OOP\Serializer\bin\Release\net7.0\publish\Serializer.deps.json
+D:\zalupa\oop\OOP\Serializer\bin\Release\net7.0\publish\Serializer.pdb

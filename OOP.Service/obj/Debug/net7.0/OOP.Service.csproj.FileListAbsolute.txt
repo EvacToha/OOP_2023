@@ -1,0 +1,17 @@
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\OOP.Service.deps.json
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\OOP.Service.dll
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\OOP.Service.pdb
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\OOP.Domain.dll
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\OOP.Domain.pdb
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.csproj.AssemblyReference.cache
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.AssemblyInfoInputs.cache
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.AssemblyInfo.cs
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.csproj.CoreCompileInputs.cache
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.csproj.CopyComplete
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.dll
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\refint\OOP.Service.dll
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\OOP.Service.pdb
+D:\zalupa\oop\OOP\OOP.Service\obj\Debug\net7.0\ref\OOP.Service.dll
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\Serializer.dll
+D:\zalupa\oop\OOP\OOP.Service\bin\Debug\net7.0\Serializer.pdb

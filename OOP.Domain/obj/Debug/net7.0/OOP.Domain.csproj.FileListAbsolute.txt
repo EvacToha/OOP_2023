@@ -1,0 +1,15 @@
+D:\zalupa\oop\OOP\OOP.Domain\bin\Debug\net7.0\OOP.Domain.deps.json
+D:\zalupa\oop\OOP\OOP.Domain\bin\Debug\net7.0\OOP.Domain.dll
+D:\zalupa\oop\OOP\OOP.Domain\bin\Debug\net7.0\OOP.Domain.pdb
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.csproj.AssemblyReference.cache
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.AssemblyInfoInputs.cache
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.AssemblyInfo.cs
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.csproj.CoreCompileInputs.cache
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.dll
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\refint\OOP.Domain.dll
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.pdb
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\ref\OOP.Domain.dll
+D:\zalupa\oop\OOP\OOP.Domain\bin\Debug\net7.0\Serializer.dll
+D:\zalupa\oop\OOP\OOP.Domain\bin\Debug\net7.0\Serializer.pdb
+D:\zalupa\oop\OOP\OOP.Domain\obj\Debug\net7.0\OOP.Domain.csproj.CopyComplete
